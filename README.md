@@ -1,7 +1,7 @@
 # DFRobot-Offline-Voice-Recognition-Sensor
 Getting started with DFRobot Offline Voice Recognition Sensor
   
-<img src="/hackster-thumb.png" height="250" >
+<img src="/Images/hackster-thumb.png" height="250" >
   
 
 Gravity: offline speech recognition sensor is built around an offline voice recognition chip, which can be directly used without an internet connection. It comes with 121 built-in fixed command words and supports the addition of 17 custom command words. Meanwhile, this voice recognition module compatibility with multiple common controllers enables it to provide a flexible solution for makers and electronics enthusiasts in terms of voice interaction. It can be applied to any application that requires voice control or interaction, such as various smart home appliances, toys, lighting fixtures, and robotics projects, among others.   
@@ -15,7 +15,7 @@ Gravity: offline speech recognition sensor is built around an offline voice reco
 - DC Fan 2  
 </br>
 
-<img src="/DFRobot-Sensor.jpg" height="250" >  
+<img src="/Images/DFRobot-Sensor.jpg" height="250" >  
 
 #### 💻 Software  
 - Arduino IDE 
