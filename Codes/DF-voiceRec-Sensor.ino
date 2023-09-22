@@ -1,10 +1,10 @@
 //=======================================================================================================//
-// Projet Tutorial       - Getting started with DFRobot Voice Recognition Sensor 
-// Author                - https://www.hackster.io/maheshyadav216
-// Hardware              - SKU_SEN0539-EN_Gravity_Voice_Recognition_Module, Arduino Uno, 5v Relay Board 
-// Softare               - Arduino IDE 1
-// GitHub Repo of Projet - https://github.com/maheshyadav216/DFRobot-Offline-Voice-Recognition-Sensor
-// Code last Modified on - 19/09/2023
+// Projet Tutorial        - Getting started with DFRobot Voice Recognition Sensor 
+// Author                 - https://www.hackster.io/maheshyadav216
+// Hardware               - SKU_SEN0539-EN_Gravity_Voice_Recognition_Module, Arduino Uno, 5v Relay Board 
+// Softare                - Arduino IDE 1
+// GitHub Repo of Project - https://github.com/maheshyadav216/DFRobot-Offline-Voice-Recognition-Sensor
+// Code last Modified on  - 19/09/2023
 //=======================================================================================================//
 #include "DFRobot_DF2301Q.h"    // DFRobot Voice Recognition sensor library
 
