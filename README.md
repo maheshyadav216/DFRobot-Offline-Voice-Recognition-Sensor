@@ -29,7 +29,9 @@ Gravity: offline speech recognition sensor is built around an offline voice reco
 
 📕 **YouTube Video Link**  
 
-▶️ Getting started with DFRobot Offline Voice Recognition Sensor - 🔗 https://www.youtube.com/ 
+▶️ DFRobot Offline Voice Recognition Sensor - Demo - 🔗 https://youtu.be/GcZpXVAkt4U  
+  
+▶️ DFRobot Offline Voice Recognition Sensor - Learning Mode - 🔗 https://youtu.be/6yKBlNiXV4Q  
 
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
